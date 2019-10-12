@@ -7,4 +7,6 @@ class Dancer
 
     attr_accessor :name
 
+    def initialize
+
 end
